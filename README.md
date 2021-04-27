@@ -17,7 +17,7 @@
 
 ### Support:
 
-* Feel free to contact me at the following email address: aperry@stevens.edu
+* Feel free to contact me at the following email address: perryasp@gmail.com
 
 ### Roadmap:
 
@@ -25,7 +25,9 @@
 
 ### License:
 
-* N/A
+* MIT License!
+
+See License file for more info!
 
 
 
