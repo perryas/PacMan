@@ -7,8 +7,14 @@
 > The PacMan code displays a PacMan image moving from left to right and then in the reverse direction.
 
 ### Installation:
+Download and Installation
+To begin using this, choose one of the following options to get started:
+Clone the repo: git clone git@github.com:perryas/PacMan.git
+Fork, Clone, or Download on GitHub
 
-* Download the index.html file to see the html code and javascript code in the editor of our choice.
+Roadmap of future improvements: Still in development. Future enhancements coming soon.
+
+License information: See the LICENSE file.
 
 #### Usage:
 
